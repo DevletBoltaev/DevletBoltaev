@@ -3,6 +3,7 @@
 ### Языки:
 ![HTML & CSS](https://img.shields.io/badge/-HTML&CSS-090909?style=for-the-badge&logo=HTML&CSS=47C5FB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=E9D54D)
 
 ### Соц. сети:
 [![Telegram](https://img.shields.io/badge/-Телеграм-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/DEVLET_T)
